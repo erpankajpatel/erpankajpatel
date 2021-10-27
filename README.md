@@ -3,7 +3,7 @@
 
 <p >
   <a align="left" href="https://twitter.com/Er_pankaj10" target="blank"><img src="https://img.shields.io/twitter/follow/Er_pankaj10?logo=twitter&style=for-the-badge" alt="Er_pankaj10" /></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /> 
+  <img align="right" src="https://komarev.com/ghpvc/?username=erpankajpatel&label=Profile%20views&color=0e75b6&style=flat" alt="erpankajpatel" /> 
 </p>
 
 
