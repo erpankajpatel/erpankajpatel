@@ -8,11 +8,8 @@
 
 
 
-- 🔭 I’m currently working with **Flutter**
-
-- 🌱 I’m currently learning **Flutter, Swift & Kotlin**
-
-- 📫 How to reach me **gairicksaha@gmail.com**
+- 🔭 I’m currently working with **Flutter** **Swift** 
+- 📫 How to reach me **patelpankaj.1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
