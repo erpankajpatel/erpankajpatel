@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gairick Saha</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Patel</h1>
+<h3 align="center">A passionate Mobile App developer having 6+ experience from India</h3>
 
 <p >
-  <a align="left" href="https://twitter.com/gairick_saha" target="blank"><img src="https://img.shields.io/twitter/follow/gairick_saha?logo=twitter&style=for-the-badge" alt="gairick_saha" /></a>
+  <a align="left" href="https://twitter.com/Er_pankaj10" target="blank"><img src="https://img.shields.io/twitter/follow/Er_pankaj10?logo=twitter&style=for-the-badge" alt="Er_pankaj10" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=gairick-saha&label=Profile%20views&color=0e75b6&style=flat" alt="gairick-saha" /> 
 </p>
 
