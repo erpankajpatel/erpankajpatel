@@ -16,7 +16,6 @@
 <a href="https://twitter.com/Er_pankaj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Er_pankaj10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erpankajpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erpankajpatel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8497847/patel-pankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8497847/patel-pankaj" height="30" width="40" /></a>
-<a href="https://fb.com/gsaha.jit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsaha.jit" height="30" width="40" /></a>
 <a href="https://instagram.com/gairick.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gairick.saha" height="30" width="40" /></a>
 </p>
 
