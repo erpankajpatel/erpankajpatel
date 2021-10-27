@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gairick_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gairick_saha" height="30" width="40" /></a>
+<a href="https://twitter.com/Er_pankaj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gairick_saha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gairick-s-3a276993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gairick-s-3a276993" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10210042/gairick-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10210042/gairick-saha" height="30" width="40" /></a>
 <a href="https://fb.com/gsaha.jit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsaha.jit" height="30" width="40" /></a>
