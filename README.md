@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on my Skills.
+- 🔭 I’m currently working on **Flutter** **Swift** 
 - 🌱 I’m currently learning more about Web3 Development and React.Js.
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 💬 Ask me about any tech-related stuff.
