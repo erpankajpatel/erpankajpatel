@@ -1,42 +1,26 @@
-<h1 align="center">Hi 👋, I'm Pankaj Patel</h1>
-<h3 align="center">A passionate Mobile App developer having 6+ experience from India</h3>
+# 💫About Me :
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Web3 Development and React.Js.
+🤔 I’m looking for help with Exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - patelpankaj.1010@gmail.com
+😄 Pronouns: He/His
 
-<p >
-  <a align="left" href="https://twitter.com/Er_pankaj10" target="blank"><img src="https://img.shields.io/twitter/follow/Er_pankaj10?logo=twitter&style=for-the-badge" alt="Er_pankaj10" /></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=erpankajpatel&label=Profile%20views&color=0e75b6&style=flat" alt="erpankajpatel" /> 
-</p>
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pankaj.patel.564) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankajpatel1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erpankajpatel/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Er_pankaj10) 
 
+# 💻Tech Stack
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=erpankajpatel&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erpankajpatel&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erpankajpatel&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working with **Flutter** **Swift** 
-- 📫 How to reach me **patelpankaj.1010@gmail.com**
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Er_pankaj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Er_pankaj10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/erpankajpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erpankajpatel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8497847/patel-pankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8497847/patel-pankaj" height="30" width="40" /></a>
-<a href="https://instagram.com/pankajpatel1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajpatel1010" height="30" width="40" /></a>
-</p>
-
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpankajpatel&show_icons=true&locale=en&layout=compact" alt="erpankajpatel" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erpankajpatel&show_icons=true&locale=en" alt="erpankajpatel" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erpankajpatel&" alt="erpankajpatel" />
-  
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align = "center" src="https://github-profile-trophy.vercel.app/?username=erpankajpatel" alt="erpankajpatel" />
-  </a> 
-</p>
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=erpankajpatel&icon=0&color=0)](https://visitcount.itsvg.in)
